@@ -5,7 +5,7 @@ let movieTitle;
 
 let searchHistory = [];
 
-const falseSearch = $(".status");
+let falseSearch = $("#falseSearchText");
 
 //varibles and const for change logo feature
 const pickGiph = $('.pick-giph');
